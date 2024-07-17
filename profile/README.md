@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+![image](https://github.com/user-attachments/assets/3a78febc-a601-4816-ad5b-70c4790862e4)
 
-**Here are some ideas to get you started:**
+GENERATIVE ART HOUSE OFFERING ARTIST REPRESENTATION, PRIVATE SALES AND INSTITUTIONAL ADVISORY
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is our GitHub
