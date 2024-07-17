@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![image](https://github.com/user-attachments/assets/3a78febc-a601-4816-ad5b-70c4790862e4)
 
 GENERATIVE ART HOUSE OFFERING ARTIST REPRESENTATION, PRIVATE SALES AND INSTITUTIONAL ADVISORY
